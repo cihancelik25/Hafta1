@@ -1,0 +1,5 @@
+commit 323a749981144a0d155658f8075ac150dda5cfc2 (HEAD -> main, origin/main, origin/HEAD)
+Author: cihançelik25 <celikc561@gmail.com>
+Date:   Sat Mar 1 20:27:30 2025 +0300
+
+    ilk commit

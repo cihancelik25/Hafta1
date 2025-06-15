@@ -1,0 +1,1 @@
+yazılan web sitesine sistem tarafından ping gönderilerek Ddos saldırıcıı yapılmaktadır.
